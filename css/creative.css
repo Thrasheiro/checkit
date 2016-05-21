@@ -440,6 +440,11 @@ fieldset[disabled] .btn-primary.active {
     font-weight: 700;
 }
 
+.download:hover {
+    color: #fff;
+    background-color: #00B2FF;
+}
+
 .btn-xl {
     padding: 15px 30px;
 }
@@ -468,15 +473,4 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #222;
-}
-
-
-.example-popup {
-position: relative;
-background: #FFF;
-padding: 20px;
-width: 20%;
-max-width: 500px;
-margin: 20px auto;
-} none;
 }
