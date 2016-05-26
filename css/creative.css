@@ -33,10 +33,17 @@ a {
 
 a .fa {
     color: #333;
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
 }
 
 a:hover,
 a:focus {
+    color: #009fe5;
+}
+
+a .fa:hover {
     color: #009fe5;
 }
 
