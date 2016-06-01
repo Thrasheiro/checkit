@@ -482,3 +482,17 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
+
+.white-popup-block {
+    background:#FFF;
+    padding:20px 30px;
+    text-align:left;
+    max-width:650px;
+    margin:40px auto;
+    position:relative
+}
+
+#custom-content img {
+    max-width: 100%;
+    margin-bottom: 10px;
+}
